@@ -6,10 +6,12 @@ repo
 ## Array
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
 ## Simulation
@@ -27,5 +29,6 @@ repo
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
