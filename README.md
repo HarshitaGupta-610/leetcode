@@ -31,4 +31,16 @@ repo
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
