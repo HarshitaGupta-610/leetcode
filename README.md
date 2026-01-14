@@ -9,6 +9,7 @@ repo
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
+| [0485-max-consecutive-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
