@@ -15,6 +15,7 @@ repo
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitaGupta-610/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3453-separate-squares-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +96,13 @@ repo
 |  |
 | ------- |
 | [3453-separate-squares-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
