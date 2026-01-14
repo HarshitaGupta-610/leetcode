@@ -84,6 +84,7 @@ repo
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Geometry
 |  |
 | ------- |
