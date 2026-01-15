@@ -9,6 +9,7 @@ repo
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
+| [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/HarshitaGupta-610/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
@@ -68,6 +69,7 @@ repo
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
@@ -84,6 +86,7 @@ repo
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
@@ -98,6 +101,7 @@ repo
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/HarshitaGupta-610/leetcode/tree/master/0704-binary-search) |
 | [3453-separate-squares-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
@@ -109,4 +113,12 @@ repo
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
