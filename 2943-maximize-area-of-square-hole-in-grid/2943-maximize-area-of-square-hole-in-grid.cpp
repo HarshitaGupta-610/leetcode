@@ -1,28 +1,28 @@
 class Solution {
 public:
+    int maxConsecutive(vector<int>& bars) {
+        sort(bars.begin(), bars.end());
+
+        int maxLen = 1, currLen = 1;
+
+        for (int i = 1; i < bars.size(); i++) {
+            if (bars[i] == bars[i-1] + 1) {
+                currLen++;
+            } else {
+                maxLen = max(maxLen, currLen);
+                currLen = 1;
+            }
+        }
+        maxLen = max(maxLen, currLen);
+        return maxLen;
+    }
+
     int maximizeSquareHoleArea(int n, int m, vector<int>& hBars, vector<int>& vBars) {
-        int cons = 1, maxi = 1, vcons = 1, vmaxi = 1;
-        sort(hBars.begin(), hBars.end());
-        sort(vBars.begin(), vBars.end());
-        for(int i = 1; i < hBars.size(); i++)
-        {
-            if(hBars[i] - hBars[i-1] == 1){
-                cons += 1;
-                maxi = max(cons, maxi);
-            }
-            else
-                cons = 1;
-        }
-        for(int i = 1; i < vBars.size(); i++)
-        {
-            if(vBars[i] - vBars[i-1] == 1){
-                vcons += 1;
-                vmaxi = max(vmaxi, vcons);
-            }
-            else
-                vcons = 1;
-            
-        }
-        return pow(min(vmaxi, maxi) + 1, 2);
+        int maxH = maxConsecutive(hBars);
+        int maxV = maxConsecutive(vBars); 
+
+        int side = min(maxH + 1, maxV + 1); 
+
+        return 1LL * side * side; 
     }
 };
