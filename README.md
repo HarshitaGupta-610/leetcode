@@ -6,6 +6,7 @@ repo
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
@@ -133,5 +134,6 @@ repo
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
