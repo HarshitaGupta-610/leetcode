@@ -34,6 +34,7 @@ repo
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Greedy
@@ -128,4 +129,8 @@ repo
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
