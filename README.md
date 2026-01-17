@@ -95,6 +95,7 @@ repo
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
@@ -139,4 +140,12 @@ repo
 | ------- |
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
