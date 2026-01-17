@@ -9,6 +9,7 @@ repo
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/0485-max-consecutive-ones) |
@@ -134,6 +135,7 @@ repo
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
@@ -141,6 +143,7 @@ repo
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
 ## Brainteaser
 |  |
