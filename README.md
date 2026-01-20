@@ -38,6 +38,7 @@ repo
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
@@ -80,6 +81,7 @@ repo
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -161,4 +163,8 @@ repo
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
