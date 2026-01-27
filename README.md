@@ -201,6 +201,7 @@ repo
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
@@ -214,6 +215,7 @@ repo
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -231,6 +233,7 @@ repo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -240,4 +243,8 @@ repo
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
