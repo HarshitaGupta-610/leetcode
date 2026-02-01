@@ -122,6 +122,7 @@ repo
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
@@ -162,6 +163,7 @@ repo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
@@ -253,6 +255,7 @@ repo
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
 ## Merge Sort
 |  |
