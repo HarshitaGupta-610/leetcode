@@ -11,6 +11,7 @@ repo
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
+| [0162-find-peak-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
@@ -146,6 +147,7 @@ repo
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/HarshitaGupta-610/leetcode/tree/master/0704-binary-search) |
