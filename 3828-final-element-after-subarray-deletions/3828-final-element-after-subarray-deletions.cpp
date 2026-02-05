@@ -8,5 +8,3 @@ public:
         return max(nums[0], nums[n-1]);
     }
 };
-
-
