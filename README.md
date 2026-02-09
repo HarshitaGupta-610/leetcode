@@ -35,6 +35,7 @@ repo
 | [3453-separate-squares-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-trionic-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3637-trionic-array-i) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
@@ -140,6 +141,7 @@ repo
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Geometry
 |  |
@@ -200,6 +202,7 @@ repo
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Game Theory
 |  |
@@ -273,4 +276,8 @@ repo
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->
