@@ -190,6 +190,7 @@ repo
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
+| [0693-binary-number-with-alternating-bits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1009-complement-of-base-10-integer) |
 ## Sorting
 |  |
