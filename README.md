@@ -68,6 +68,7 @@ repo for leetcode solutions
 | [0058-length-of-last-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -216,6 +217,7 @@ repo for leetcode solutions
 | [0031-next-permutation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
