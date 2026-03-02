@@ -1,5 +1,5 @@
 # leetcode
-repo for leetcode questions 
+repo for leetcode question ' s solutions
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
