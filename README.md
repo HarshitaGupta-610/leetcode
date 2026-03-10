@@ -308,4 +308,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/HarshitaGupta-610/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
