@@ -6,6 +6,7 @@ repo for leetcode question ' s solutions
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
@@ -223,6 +224,7 @@ repo for leetcode question ' s solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
