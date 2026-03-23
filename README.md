@@ -6,6 +6,7 @@ repo for leetcode question ' s solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0031-next-permutation) |
@@ -129,6 +130,7 @@ repo for leetcode question ' s solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
