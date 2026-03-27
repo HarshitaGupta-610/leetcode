@@ -42,6 +42,7 @@ repo for leetcode question ' s solutions
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
 | [3379-transformed-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/3379-transformed-array) |
 | [3453-separate-squares-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3453-separate-squares-i) |
@@ -66,6 +67,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -157,6 +159,7 @@ repo for leetcode question ' s solutions
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshitaGupta-610/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 ## Math
 |  |
@@ -174,6 +177,7 @@ repo for leetcode question ' s solutions
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
