@@ -127,6 +127,7 @@ repo for leetcode question ' s solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitaGupta-610/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/HarshitaGupta-610/leetcode/tree/master/0198-house-robber) |
@@ -169,6 +170,7 @@ repo for leetcode question ' s solutions
 | [0009-palindrome-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
@@ -352,4 +354,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
