@@ -87,6 +87,7 @@ repo for leetcode question ' s solutions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3136-valid-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/3136-valid-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
