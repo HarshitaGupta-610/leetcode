@@ -291,6 +291,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
