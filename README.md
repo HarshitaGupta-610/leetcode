@@ -134,6 +134,7 @@ repo for leetcode question ' s solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitaGupta-610/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/HarshitaGupta-610/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitaGupta-610/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -155,6 +156,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -176,6 +178,7 @@ repo for leetcode question ' s solutions
 | [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
