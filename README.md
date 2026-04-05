@@ -61,6 +61,7 @@ repo for leetcode question ' s solutions
 | [0020-valid-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
@@ -301,6 +302,7 @@ repo for leetcode question ' s solutions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
