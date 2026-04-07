@@ -63,6 +63,7 @@ repo for leetcode question ' s solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
@@ -308,6 +309,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -376,4 +378,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
