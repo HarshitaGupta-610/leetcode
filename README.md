@@ -25,6 +25,7 @@ repo for leetcode question ' s solutions
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/HarshitaGupta-610/leetcode/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ repo for leetcode question ' s solutions
 | [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HarshitaGupta-610/leetcode/tree/master/0739-daily-temperatures) |
@@ -112,6 +114,7 @@ repo for leetcode question ' s solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/HarshitaGupta-610/leetcode/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
