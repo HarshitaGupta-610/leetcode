@@ -71,12 +71,14 @@ repo for leetcode question ' s solutions
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HarshitaGupta-610/leetcode/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/HarshitaGupta-610/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3379-transformed-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -94,6 +96,7 @@ repo for leetcode question ' s solutions
 | [0657-robot-return-to-origin](https://github.com/HarshitaGupta-610/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
@@ -273,6 +276,7 @@ repo for leetcode question ' s solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
+| [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshitaGupta-610/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
