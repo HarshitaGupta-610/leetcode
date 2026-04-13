@@ -38,6 +38,7 @@ repo for leetcode question ' s solutions
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/HarshitaGupta-610/leetcode/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1200-minimum-absolute-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -172,6 +173,7 @@ repo for leetcode question ' s solutions
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -411,5 +413,6 @@ repo for leetcode question ' s solutions
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
