@@ -49,6 +49,7 @@ repo for leetcode question ' s solutions
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
@@ -107,6 +108,7 @@ repo for leetcode question ' s solutions
 | [1544-make-the-string-great](https://github.com/HarshitaGupta-610/leetcode/tree/master/1544-make-the-string-great) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3136-valid-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/3136-valid-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
