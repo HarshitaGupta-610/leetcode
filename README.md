@@ -63,6 +63,7 @@ repo for leetcode question ' s solutions
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Stack
 |  |
 | ------- |
@@ -432,4 +433,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitaGupta-610/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 <!---LeetCode Topics End-->
