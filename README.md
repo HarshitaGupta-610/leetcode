@@ -49,6 +49,7 @@ repo for leetcode question ' s solutions
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitaGupta-610/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1539-kth-missing-positive-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -192,6 +193,7 @@ repo for leetcode question ' s solutions
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -338,6 +340,7 @@ repo for leetcode question ' s solutions
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Linked List
 |  |
