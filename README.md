@@ -121,6 +121,7 @@ repo for leetcode question ' s solutions
 | [1544-make-the-string-great](https://github.com/HarshitaGupta-610/leetcode/tree/master/1544-make-the-string-great) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3136-valid-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/3136-valid-word) |
@@ -189,6 +190,7 @@ repo for leetcode question ' s solutions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitaGupta-610/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
 ## Hash Table
 |  |
 | ------- |
@@ -351,6 +353,7 @@ repo for leetcode question ' s solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Prefix Sum
 |  |
@@ -359,6 +362,7 @@ repo for leetcode question ' s solutions
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
 ## Linked List
 |  |
