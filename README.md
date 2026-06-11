@@ -266,6 +266,7 @@ repo for leetcode question ' s solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1922-count-good-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/1922-count-good-numbers) |
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -452,6 +453,7 @@ repo for leetcode question ' s solutions
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
+| [1922-count-good-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/1922-count-good-numbers) |
 ## Merge Sort
 |  |
 | ------- |
