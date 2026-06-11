@@ -254,6 +254,7 @@ repo for leetcode question ' s solutions
 | [0009-palindrome-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/HarshitaGupta-610/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/HarshitaGupta-610/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -447,6 +448,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/HarshitaGupta-610/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
