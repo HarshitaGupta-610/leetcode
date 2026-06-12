@@ -117,6 +117,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/HarshitaGupta-610/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
