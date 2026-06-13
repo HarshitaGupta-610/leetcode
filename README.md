@@ -82,6 +82,7 @@ repo for leetcode question ' s solutions
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
+| [3838-weighted-word-mapping](https://github.com/HarshitaGupta-610/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
 ## Stack
 |  |
@@ -114,6 +115,7 @@ repo for leetcode question ' s solutions
 | [3379-transformed-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3838-weighted-word-mapping](https://github.com/HarshitaGupta-610/leetcode/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ repo for leetcode question ' s solutions
 | [3136-valid-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/3136-valid-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
+| [3838-weighted-word-mapping](https://github.com/HarshitaGupta-610/leetcode/tree/master/3838-weighted-word-mapping) |
 ## Greedy
 |  |
 | ------- |
