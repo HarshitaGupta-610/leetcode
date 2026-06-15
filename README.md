@@ -268,6 +268,7 @@ repo for leetcode question ' s solutions
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
+| [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -328,6 +329,7 @@ repo for leetcode question ' s solutions
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
@@ -460,6 +462,7 @@ repo for leetcode question ' s solutions
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
+| [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1922-count-good-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/1922-count-good-numbers) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Merge Sort
