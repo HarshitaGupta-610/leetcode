@@ -7,6 +7,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/HarshitaGupta-610/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
@@ -149,6 +150,7 @@ repo for leetcode question ' s solutions
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshitaGupta-610/leetcode/tree/master/0011-container-with-most-water) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
@@ -355,6 +357,7 @@ repo for leetcode question ' s solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshitaGupta-610/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
