@@ -125,6 +125,7 @@ repo for leetcode question ' s solutions
 | [0020-valid-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/HarshitaGupta-610/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
@@ -359,6 +360,7 @@ repo for leetcode question ' s solutions
 | [0027-remove-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/HarshitaGupta-610/leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshitaGupta-610/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
