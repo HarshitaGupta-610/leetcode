@@ -65,6 +65,7 @@ repo for leetcode question ' s solutions
 | [1539-kth-missing-positive-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/HarshitaGupta-610/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitaGupta-610/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -421,6 +422,7 @@ repo for leetcode question ' s solutions
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1732-find-the-highest-altitude](https://github.com/HarshitaGupta-610/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
 | [2574-left-and-right-sum-differences](https://github.com/HarshitaGupta-610/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
