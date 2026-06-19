@@ -4,32 +4,36 @@ public:
 
         int balance = 0;
 
-        // Left to Right
         for(char c : s)
         {
-            if(c == '(' || c == '*')
+            if(c == '(' || c == '*'){
                 balance++;
-            else
+            }
+            else{
                 balance--;
+            }
 
-            if(balance < 0)
+            if(balance < 0){
                 return false;
+            }
         }
 
         balance = 0;
 
-        // Right to Left
         for(int i = s.size() - 1; i >= 0; i--)
         {
             char c = s[i];
 
-            if(c == ')' || c == '*')
+            if(c == ')' || c == '*'){
                 balance++;
-            else
+            }
+            else{
                 balance--;
+            }
 
-            if(balance < 0)
+            if(balance < 0){
                 return false;
+            }
         }
 
         return true;
