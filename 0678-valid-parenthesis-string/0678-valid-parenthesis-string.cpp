@@ -2,37 +2,36 @@ class Solution {
 public:
     bool checkValidString(string s) {
 
-        int low = 0, high = 0;
+        int balance = 0;
 
-        for(char c : s){
+        // Left to Right
+        for(char c : s)
+        {
+            if(c == '(' || c == '*')
+                balance++;
+            else
+                balance--;
 
-            if(c == '('){
-                low++;
-                high++;
-            }
-
-            else if(c == ')'){
-                low--;
-                high--;
-            }
-
-            else{ 
-                low--;    
-                high++;    
-            }
-
-            if(high < 0)  {
+            if(balance < 0)
                 return false;
-            }
-
-            if(low < 0)  {  
-                low = 0;
-            }
         }
 
-       if(low == 0){
+        balance = 0;
+
+        // Right to Left
+        for(int i = s.size() - 1; i >= 0; i--)
+        {
+            char c = s[i];
+
+            if(c == ')' || c == '*')
+                balance++;
+            else
+                balance--;
+
+            if(balance < 0)
+                return false;
+        }
+
         return true;
-       }
-       return false;
     }
 };
