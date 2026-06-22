@@ -46,6 +46,7 @@ repo for leetcode question ' s solutions
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/HarshitaGupta-610/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/HarshitaGupta-610/leetcode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/HarshitaGupta-610/leetcode/tree/master/0739-daily-temperatures) |
@@ -425,6 +426,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/HarshitaGupta-610/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
