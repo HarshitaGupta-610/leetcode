@@ -14,6 +14,7 @@ repo for leetcode question ' s solutions
 | [0031-next-permutation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshitaGupta-610/leetcode/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HarshitaGupta-610/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
@@ -157,6 +158,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshitaGupta-610/leetcode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
@@ -208,6 +210,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
