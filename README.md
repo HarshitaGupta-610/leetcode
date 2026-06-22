@@ -16,6 +16,7 @@ repo for leetcode question ' s solutions
 | [0035-search-insert-position](https://github.com/HarshitaGupta-610/leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HarshitaGupta-610/leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/HarshitaGupta-610/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -156,6 +157,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshitaGupta-610/leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
@@ -206,6 +208,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0118-pascals-triangle) |
