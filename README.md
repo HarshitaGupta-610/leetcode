@@ -20,6 +20,7 @@ repo for leetcode question ' s solutions
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HarshitaGupta-610/leetcode/tree/master/0057-insert-interval) |
+| [0074-search-a-2d-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/HarshitaGupta-610/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -272,6 +273,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/HarshitaGupta-610/leetcode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
@@ -324,6 +326,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshitaGupta-610/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0162-find-peak-element) |
