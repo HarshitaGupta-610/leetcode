@@ -19,6 +19,7 @@ repo for leetcode question ' s solutions
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/HarshitaGupta-610/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/HarshitaGupta-610/leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
