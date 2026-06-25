@@ -141,6 +141,7 @@ repo for leetcode question ' s solutions
 | [0058-length-of-last-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/HarshitaGupta-610/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HarshitaGupta-610/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -241,6 +242,7 @@ repo for leetcode question ' s solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HarshitaGupta-610/leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -379,6 +381,7 @@ repo for leetcode question ' s solutions
 | [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0435-non-overlapping-intervals) |
