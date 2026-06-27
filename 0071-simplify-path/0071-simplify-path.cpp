@@ -8,20 +8,16 @@ public:
 for(int i = 0; i <= path.size(); i++) {
 
             if(i == path.size() || path[i] == '/') {
-
-                if(curr == "" || curr == ".") {
-                   
+                if(curr == "" || curr == ".") {     
                 }
                 else if(curr == "..") {
-
-                    if(!st.empty())
+                    if(!st.empty()){
                         st.pop();
-
+                }
                 }
                 else {
                     st.push(curr);
                 }
-
                 curr = "";
             }
             else {
