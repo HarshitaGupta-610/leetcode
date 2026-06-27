@@ -203,6 +203,7 @@ repo for leetcode question ' s solutions
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitaGupta-610/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -272,6 +273,7 @@ repo for leetcode question ' s solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
+| [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -557,6 +559,7 @@ repo for leetcode question ' s solutions
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -571,6 +574,7 @@ repo for leetcode question ' s solutions
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
