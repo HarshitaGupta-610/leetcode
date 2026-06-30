@@ -48,6 +48,7 @@ repo for leetcode question ' s solutions
 | [0503-next-greater-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
@@ -245,6 +246,7 @@ repo for leetcode question ' s solutions
 | [0213-house-robber-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -288,6 +290,7 @@ repo for leetcode question ' s solutions
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshitaGupta-610/leetcode/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
+| [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
@@ -302,6 +305,7 @@ repo for leetcode question ' s solutions
 | [0074-search-a-2d-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
