@@ -45,6 +45,7 @@ repo for leetcode question ' s solutions
 | [0435-non-overlapping-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -255,6 +256,7 @@ repo for leetcode question ' s solutions
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0416-partition-equal-subset-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -547,6 +549,7 @@ repo for leetcode question ' s solutions
 | [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/HarshitaGupta-610/leetcode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0494-target-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
