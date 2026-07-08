@@ -429,6 +429,7 @@ repo for leetcode question ' s solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -455,6 +456,7 @@ repo for leetcode question ' s solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HarshitaGupta-610/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
@@ -523,6 +525,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -533,6 +536,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -658,4 +662,8 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitaGupta-610/leetcode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
