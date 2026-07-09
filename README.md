@@ -224,6 +224,7 @@ repo for leetcode question ' s solutions
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshitaGupta-610/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -308,6 +309,7 @@ repo for leetcode question ' s solutions
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshitaGupta-610/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -539,6 +541,7 @@ repo for leetcode question ' s solutions
 | [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
@@ -628,6 +631,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitaGupta-610/leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshitaGupta-610/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
@@ -666,4 +670,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
