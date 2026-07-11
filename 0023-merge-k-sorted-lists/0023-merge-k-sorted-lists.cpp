@@ -8,37 +8,60 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-struct Compare {
+
+// Custom Comparator
+class compare {
+public:
     bool operator()(ListNode* a, ListNode* b) {
-        return a->val > b->val;   // by default pqueue adress comapre karleta so to avoid that happening we are making a comapriosn operator
+
+        // Agar a ki value b se badi hai
+        // to a ki priority kam hogi.
+        // Isliye smallest value top par rahegi.
+        return a->val > b->val;
     }
 };
+
 class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        priority_queue<ListNode*, vector<ListNode*>, Compare> pq;
-         //abhi heap ke elements pointers hain toh usko comapre functions values ko compare karke pqueue mein dalega
-          for (auto node : lists) {
-            if (node != NULL){
+
+        // Min Heap
+        priority_queue<ListNode*, vector<ListNode*>, compare> pq;
+
+        // Sabhi linked lists ke first node ko heap me daal do
+        for (auto node : lists) {
+            if (node != NULL) {
                 pq.push(node);
-            }// sari lists ke head dal diye andar
-        }
-        
-ListNode* dummy = new ListNode(-1);//start of merged list
-ListNode* tail = dummy; // to attach more nodes
-
-        while (!pq.empty()) {
-            ListNode* top = pq.top();// sabse smallest node nikalo
-            pq.pop();// heap se bahar aagygi smallest
-
-            tail->next = top;// smallest nde list mein hai result wali
-            tail = tail->next;// next node 
-
-            if (top->next) {// check for next node of list
-                pq.push(top->next);
             }
         }
 
-        return dummy->next;// final answer list jo hume chahhiye
+        // Dummy node answer list banane ke liye
+        ListNode* dummy = new ListNode(-1);
+
+        // Tail hamesha answer list ke last node ko point karega
+        ListNode* tail = dummy;
+
+        // Jab tak heap khali nahi hota
+        while (!pq.empty()) {
+
+            // Heap ka smallest node nikalo
+            ListNode* curr = pq.top();
+            pq.pop();
+
+            // Us node ko answer list me jod do
+            tail->next = curr;
+
+            // Tail ko aage badha do
+            tail = tail->next;
+
+            // Agar us linked list me aur node bacha hai
+            // to us next node ko heap me daal do
+            if (curr->next != NULL) {
+                pq.push(curr->next);
+            }
+        }
+
+        // Dummy node ko skip karke actual head return karo
+        return dummy->next;
     }
 };
