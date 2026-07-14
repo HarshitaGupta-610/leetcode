@@ -24,7 +24,7 @@ public:
 //         return ans;
 
 
-
+//optimal : sort krte jao and agar pichle ek equal nahi hai toh rank badhake , number ki rank map karo O(nlogn)
 vector<int>temp = arr;
 sort(temp.begin() , temp.end());
 map<int,int>s;
