@@ -370,6 +370,7 @@ repo for leetcode question ' s solutions
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Geometry
@@ -493,6 +494,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Sliding Window
 |  |
 | ------- |
