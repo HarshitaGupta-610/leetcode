@@ -17,13 +17,22 @@ public:
 
 
 
-        //Better approach :O(nlogn) sort and keep coparing with previous
-        sort(nums.begin() , nums.end());
-        for(int i = 1 ; i < n ; i++){
-            if(nums[i] == nums[i-1]){
-                return true;
-            }
+        // //Better approach :O(nlogn) sort and keep coparing with previous
+        // sort(nums.begin() , nums.end());
+        // for(int i = 1 ; i < n ; i++){
+        //     if(nums[i] == nums[i-1]){
+        //         return true;
+        //     }
+        // }
+        // return false;
+
+
+
+        //optimal : O(n) unordered_Set mein daldo if set and vector ka size same toh no duplicate
+      unordered_set<int>s(nums.begin() , nums.end());
+        if(s.size() == nums.size()){
+            return false;
         }
-        return false;
+        return true;
     }
 };
