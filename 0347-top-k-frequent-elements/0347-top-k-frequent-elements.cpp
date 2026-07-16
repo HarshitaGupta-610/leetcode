@@ -37,25 +37,48 @@ public:
 
 
 
-//optimal approach : O(n logn) : pehle short krege aur ek hi traversal mein freq increase krte rhege
-sort(nums.begin() , nums.end());
-vector<pair<int,int>>freq;
-int count = 1;
-for(int i = 0 ; i < n; i++){
-    while( i + 1 < n && nums[i] == nums[i+1]){
-        count++;
-        i++;
-    }
-    freq.push_back({count , nums[i]});
-    count = 1;
+// //optimal approach : O(n logn) : pehle short krege aur ek hi traversal mein freq increase krte rhege aur pairs mein freq aur number store krege , then pairs ko freq waise sort krke , elements jab tak vector ka size k na hojaye tab tak push krte rehege
+// sort(nums.begin() , nums.end());
+// vector<pair<int,int>>freq;
+// int count = 1;
+// for(int i = 0 ; i < n; i++){
+//     while( i + 1 < n && nums[i] == nums[i+1]){
+//         count++;
+//         i++;
+//     }
+//     freq.push_back({count , nums[i]});
+//     count = 1;
 
+// }
+// sort(freq.begin() , freq.end() , greater<pair<int,int>>());
+// vector<int>ans;
+// for(int i = 0 ; i < k ; i++){
+//     ans.push_back(freq[i].second);
+// }
+// return ans;
+//     }
+
+
+
+//optimal :O(n + m log k + k log k) or o(nlog k):pehle map banake freq count badhao and then min heap banao jsime freq ke basis pe minimum top pe hoga aur jaise hi size k hoga toh minimum freq wala bahr aajayega 
+// Min Heap use karte hain kyuki hume minimum frequency ko baar-baar remove karna hai. Heap mein hamesha current Top K frequencies rehti hain, aur jaise hi size k se bada hota hai, minimum frequency bahar nikal jaati hai.
+
+unordered_map<int,int>m;
+for(int num : nums){
+    m[num]++;
 }
-sort(freq.begin() , freq.end() , greater<pair<int,int>>());
+priority_queue<pair<int,int> , vector<pair<int,int>> , greater<pair<int,int>>>pq;
+for(auto it : m){
+    pq.push({it.second , it.first});
+    if(pq.size() > k){
+        pq.pop();
+    }
+}
 vector<int>ans;
-for(int i = 0 ; i < k ; i++){
-    ans.push_back(freq[i].second);
+while(!pq.empty()){
+    ans.push_back(pq.top().second);
+    pq.pop();
 }
 return ans;
     }
-
 };
