@@ -39,6 +39,7 @@ repo for leetcode question ' s solutions
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -281,6 +282,7 @@ repo for leetcode question ' s solutions
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HarshitaGupta-610/leetcode/tree/master/0290-word-pattern) |
@@ -441,6 +443,7 @@ repo for leetcode question ' s solutions
 | [0088-merge-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
