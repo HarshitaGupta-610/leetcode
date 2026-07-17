@@ -40,6 +40,7 @@ repo for leetcode question ' s solutions
 | [0213-house-robber-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/HarshitaGupta-610/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -520,6 +521,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/HarshitaGupta-610/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/HarshitaGupta-610/leetcode/tree/master/0724-find-pivot-index) |
