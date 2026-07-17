@@ -37,7 +37,7 @@ public:
 
 
 
-// //optimal approach : O(n logn) : pehle short krege aur ek hi traversal mein freq increase krte rhege aur pairs mein freq aur number store krege , then pairs ko freq waise sort krke , elements jab tak vector ka size k na hojaye tab tak push krte rehege
+// //better approach : O(n logn) : pehle sort krege aur ek hi traversal mein freq increase krte rhege aur pairs mein freq aur number store krege , then pairs ko freq wase sort krke , elements jab tak vector ka size k na hojaye tab tak push krte rehege
 // sort(nums.begin() , nums.end());
 // vector<pair<int,int>>freq;
 // int count = 1;
