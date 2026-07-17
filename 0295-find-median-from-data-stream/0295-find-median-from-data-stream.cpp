@@ -38,7 +38,7 @@ public:
 //     }
 // }
 
-//Optimal : 
+//Optimal : O(log n)
 /*median ke liye left side ka maximum element aur right side ka minimum element chahiye
 maximum top pe ho toh max heap , min top pe ho toh min heap
 left ke liye max heap banayege aur right ke liye min heap
