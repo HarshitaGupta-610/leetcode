@@ -18,6 +18,7 @@ repo for leetcode question ' s solutions
 | [0048-rotate-image](https://github.com/HarshitaGupta-610/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/HarshitaGupta-610/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/HarshitaGupta-610/leetcode/tree/master/0057-insert-interval) |
@@ -255,6 +256,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
@@ -588,6 +590,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
