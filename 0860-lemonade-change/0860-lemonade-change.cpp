@@ -3,7 +3,7 @@ public:
     bool lemonadeChange(vector<int>& bills) {
         int n = bills.size();
 
-        //Brute:
+       //approach : O(n) try kro ki minimum number of notes deke baat ban jaaye
         int count5 = 0;
         int count10 = 0;
         for(int i = 0 ; i < n ; i++)
