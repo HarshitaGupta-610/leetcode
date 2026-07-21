@@ -217,6 +217,7 @@ repo for leetcode question ' s solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshitaGupta-610/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitaGupta-610/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -230,6 +231,7 @@ repo for leetcode question ' s solutions
 | [0110-balanced-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshitaGupta-610/leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitaGupta-610/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -250,6 +252,7 @@ repo for leetcode question ' s solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/HarshitaGupta-610/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitaGupta-610/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -326,6 +329,7 @@ repo for leetcode question ' s solutions
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/HarshitaGupta-610/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/HarshitaGupta-610/leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
