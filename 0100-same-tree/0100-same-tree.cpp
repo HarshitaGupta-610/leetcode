@@ -12,6 +12,8 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
+
+        //TC:O(N) n is number of nodes and we visit each node once
         if(p == NULL && q == NULL){
             return true;// this position is same
         }
