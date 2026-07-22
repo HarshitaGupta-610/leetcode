@@ -224,6 +224,7 @@ repo for leetcode question ' s solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -241,6 +242,7 @@ repo for leetcode question ' s solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/HarshitaGupta-610/leetcode/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
@@ -263,6 +265,7 @@ repo for leetcode question ' s solutions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
@@ -579,6 +582,7 @@ repo for leetcode question ' s solutions
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 ## Heap (Priority Queue)
 |  |
@@ -726,4 +730,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
