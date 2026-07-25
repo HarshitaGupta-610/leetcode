@@ -30,20 +30,36 @@ public:
         // }
         // return head;
 
-//Optimal : O(N) 3 pointers
-  ListNode* prev = NULL;
-        ListNode* curr = head;
-        while(curr != NULL){
-            // Next node save karo
-            ListNode* next = curr->next;
-            // Pointer reverse karo
-            curr->next = prev;
-            // Prev aage badhao
-            prev = curr;
-            // Current aage badhao
-            curr = next;
-        }
-        // Prev hi naya head hai
-        return prev;
+
+// same way using stack:O(N)
+stack<int>s;
+ListNode* temp = head;
+while(temp!= NULL){
+    s.push(temp->val);
+    temp = temp -> next;
+}
+temp = head;
+while(temp != NULL){
+temp -> val = s.top();
+s.pop();
+temp = temp -> next;
+}
+
+// //Optimal : O(N) 3 pointers
+//   ListNode* prev = NULL;
+//         ListNode* curr = head;
+//         while(curr != NULL){
+//             // Next node save karo
+//             ListNode* next = curr->next;
+//             // Pointer reverse karo
+//             curr->next = prev;
+//             // Prev aage badhao
+//             prev = curr;
+//             // Current aage badhao
+//             curr = next;
+//         }
+//         // Prev hi naya head hai
+//         return prev;
+return head;
     }
 };
