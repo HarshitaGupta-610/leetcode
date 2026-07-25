@@ -11,7 +11,10 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-        if(head == NULL)return head; //empty list
+         // Base case: agar list empty hai ya sirf ek hi node bachi hai
+    // To wahi new head banegi
+    if(head == NULL || head->next == NULL)
+        return head; 
 
 
         // //Brute : O(n)  vector mein value store krke baha nikalo end se
@@ -32,18 +35,18 @@ public:
 
 
 // same way using stack:O(N)
-stack<int>s;
-ListNode* temp = head;
-while(temp!= NULL){
-    s.push(temp->val);
-    temp = temp -> next;
-}
-temp = head;
-while(temp != NULL){
-temp -> val = s.top();
-s.pop();
-temp = temp -> next;
-}
+// stack<int>s;
+// ListNode* temp = head;
+// while(temp!= NULL){
+//     s.push(temp->val);
+//     temp = temp -> next;
+// }
+// temp = head;
+// while(temp != NULL){
+// temp -> val = s.top();
+// s.pop();
+// temp = temp -> next;
+// return head;}
 
 // //Optimal : O(N) 3 pointers
 //   ListNode* prev = NULL;
@@ -60,6 +63,21 @@ temp = temp -> next;
 //         }
 //         // Prev hi naya head hai
 //         return prev;
-return head;
-    }
+// return head;
+
+
+//Recursive Approach : O(N)
+    // Baaki puri list ko reverse karo aur uska new head le aao
+    ListNode* newHead = reverseList(head->next);
+
+    // Apne next node ko bolo ki wo mujhe point kare
+    // 2 -> 3 ko 3 -> 2 bana deta hai
+    head->next->next = head;
+
+    // Purana forward connection tod do warna cycle ban jayegi
+    head->next = NULL;
+
+    // Har recursive call same new head (last node) return karegi
+    return newHead;
+}
 };
