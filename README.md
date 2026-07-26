@@ -60,6 +60,7 @@ repo for leetcode question ' s solutions
 | [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/HarshitaGupta-610/leetcode/tree/master/0704-binary-search) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
@@ -398,6 +399,7 @@ repo for leetcode question ' s solutions
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
 | [0483-smallest-good-base](https://github.com/HarshitaGupta-610/leetcode/tree/master/0483-smallest-good-base) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -492,6 +494,7 @@ repo for leetcode question ' s solutions
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
 | [1200-minimum-absolute-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/1288-remove-covered-intervals) |
