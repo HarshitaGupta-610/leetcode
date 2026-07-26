@@ -14,22 +14,48 @@ public:
 
 
         //Brute : O(N) traverse both and store in vector then sort
-        vector<int>lists;
-        while(list1 != NULL){
-lists.push_back(list1 -> val);
-list1 = list1 -> next;
-        }
-        while(list2){
-            lists.push_back(list2 -> val);
-            list2 = list2 -> next;
-        }
-sort(lists.begin(),lists.end());
+//         vector<int>lists;
+//         while(list1 != NULL){
+// lists.push_back(list1 -> val);
+// list1 = list1 -> next;
+//         }
+//         while(list2){
+//             lists.push_back(list2 -> val);
+//             list2 = list2 -> next;
+//         }
+// sort(lists.begin(),lists.end());
+// ListNode* dummy = new ListNode(-1);
+// ListNode* temp = dummy ;
+// for(int num : lists){
+//     temp -> next = new ListNode(num);
+//     temp = temp -> next;
+// }
+// return dummy-> next;
+
+
+//Better Approach :O(N)  Create a brand new linked list
 ListNode* dummy = new ListNode(-1);
-ListNode* temp = dummy ;
-for(int num : lists){
-    temp -> next = new ListNode(num);
+ListNode* temp =  dummy;
+while(list1 && list2){
+    if(list1->val <= list2 -> val){
+        temp -> next = new ListNode(list1->val);
+        list1 = list1 -> next;
+    }else{
+        temp -> next = new ListNode(list2 -> val);
+        list2 = list2 -> next;
+    }
     temp = temp -> next;
 }
-return dummy-> next;
+while(list1){
+    temp -> next = new ListNode(list1 -> val);
+    list1 = list1 -> next;
+    temp = temp -> next;
+}
+while(list2){
+    temp -> next = new ListNode(list2 -> val);
+    list2 = list2 -> next;
+    temp = temp -> next;
+}
+return dummy -> next;
     }
 };
