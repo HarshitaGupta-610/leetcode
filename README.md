@@ -313,6 +313,7 @@ repo for leetcode question ' s solutions
 | [0049-group-anagrams](https://github.com/HarshitaGupta-610/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HarshitaGupta-610/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/HarshitaGupta-610/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
@@ -593,6 +594,7 @@ repo for leetcode question ' s solutions
 | [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/HarshitaGupta-610/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0206-reverse-linked-list) |
