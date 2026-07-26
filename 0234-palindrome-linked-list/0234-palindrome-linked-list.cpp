@@ -10,56 +10,22 @@
  */
 class Solution {
 public:
-
-    ListNode* reverse(ListNode* head)
-    {
-        ListNode* prev = NULL;
-        ListNode* curr = head;
-
-        while(curr)
-        {
-            ListNode* nextNode = curr->next;
-
-            curr->next = prev;
-
-            prev = curr;
-            curr = nextNode;
-        }
-
-        return prev;
+//Brute Force: O(N) add in vectors the values and then compare pallindrome
+ bool isPalindrome(ListNode* head) {
+vector<int>num;
+while(head!=NULL){
+    num.push_back(head->val);
+    head = head -> next;
+}
+int i = 0 , j = num.size()-1;
+while(i<j){
+    if(num[i] == num[j]) {
+        i++;
+        j--;
+    }else{
+        return false;
     }
-
-    bool isPalindrome(ListNode* head) {
-
-        if(head == nullptr || head->next == nullptr){
-            return true;
-        }
-
-     
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        while(fast->next && fast->next->next)
-        {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        ListNode* secondHalf = reverse(slow->next);
-
-        ListNode* firstHalf = head;
-        ListNode* temp = secondHalf;
-
-        while(temp)
-        {
-            if(firstHalf->val != temp->val){
-                return false;
-            }
-
-            firstHalf = firstHalf->next;
-            temp = temp->next;
-        }
-
-        return true;
+}
+return true;
     }
 };
