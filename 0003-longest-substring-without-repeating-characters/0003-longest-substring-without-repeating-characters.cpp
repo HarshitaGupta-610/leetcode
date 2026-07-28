@@ -2,31 +2,37 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
     int n = s.size();
-    //      int l = 0 ;
-    //      unordered_set<char>st;
-    //      int maxi = 0;
-    //      for(int r = 0 ; r < n ; r++){
-         
-    //     while(st.find(s[r]) != st.end()){
-    //         st.erase(s[l]);
-    //         l++;
+    
+    // //Brute : O((n²))
+    // int maxi = 0;
+    // for(int i = 0 ; i < n ; i++){
+    //     unordered_set<char>st;
+    //     for(int j = i ; j <n ; j++){
+    //         if(st.find(s[j]) != st.end()){
+    //             break;
+    //         }
+    //         st.insert(s[j]);
+    //         maxi = max(maxi , j-i+1);
     //     }
-    //     st.insert(s[r]);
-    //     maxi = max(maxi , r-l+1);
-         
     // }
     // return maxi;
-    int maxi = 0;
-    for(int i = 0 ; i < n ; i++){
-        unordered_set<char>st;
-        for(int j = i ; j <n ; j++){
-            if(st.find(s[j]) != st.end()){
-                break;
-            }
-            st.insert(s[j]);
-            maxi = max(maxi , j-i+1);
+
+
+//Optimal : O(N) - keep 2 pointers and keep sliding unitl an old charcter appears and then delete it
+         int l = 0 ;
+         unordered_set<char>st;
+         int maxi = 0;
+         for(int r = 0 ; r < n ; r++){
+         
+        while(st.find(s[r]) != st.end()){
+            st.erase(s[l]);
+            l++;
         }
+        st.insert(s[r]);
+        maxi = max(maxi , r-l+1);
+         
     }
     return maxi;
+
     }
 };
