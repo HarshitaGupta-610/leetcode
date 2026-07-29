@@ -168,6 +168,7 @@ repo for leetcode question ' s solutions
 | [0071-simplify-path](https://github.com/HarshitaGupta-610/leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/HarshitaGupta-610/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/HarshitaGupta-610/leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -319,6 +320,7 @@ repo for leetcode question ' s solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
