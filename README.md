@@ -167,6 +167,7 @@ repo for leetcode question ' s solutions
 | [0058-length-of-last-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/HarshitaGupta-610/leetcode/tree/master/0071-simplify-path) |
+| [0091-decode-ways](https://github.com/HarshitaGupta-610/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/HarshitaGupta-610/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0205-isomorphic-strings) |
@@ -289,6 +290,7 @@ repo for leetcode question ' s solutions
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/HarshitaGupta-610/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitaGupta-610/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
