@@ -129,6 +129,7 @@ repo for leetcode question ' s solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/HarshitaGupta-610/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/0496-next-greater-element-i) |
@@ -620,6 +621,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0155-min-stack](https://github.com/HarshitaGupta-610/leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/HarshitaGupta-610/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
@@ -731,6 +733,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/HarshitaGupta-610/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Graph Theory
 |  |
 | ------- |
