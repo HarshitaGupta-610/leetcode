@@ -1,31 +1,24 @@
 class Solution {
 public:
     bool isValid(string s) {
-        stack<char> st;
-        for(char ch : s){
-            if(ch == '('){
-                st.push(')');
-            }
-            else if(ch == '['){
-                st.push(']');
-            }
-           else if(ch == '{'){
-                st.push('}');
-            }
-            else{
-                if( st.empty() ||st.top() != ch){
-                    return false;
-                }
-                else{
-                    st.pop();
-                }
-            }
+        int n = s.size();
+
+        //Brute Force: O(NXN): erase krte rho jab tak string exists
+        while(true){//loop run krta rahega jab tak hum ek flase condition pe na aajayein
+        int l = s.size();
+        int pos = s.find("()");
+        if(pos != -1){
+s.erase(pos,2);
+        } 
+         pos = s.find("{}");
+        if(pos != -1) {s.erase(pos,2);
+    }
+         pos = s.find("[]");
+        if(pos != -1) {s.erase(pos,2);
         }
-        if(st.empty() == true){
-            return true;
+if(l==s.size()) break;//pairs mile hi nahi
         }
-        else{
-            return false;
-        }
+       return s.empty();//empty hoti toh sab valid detected and erased
+
     }
 };
