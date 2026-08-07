@@ -412,6 +412,7 @@ repo for leetcode question ' s solutions
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
+| [0371-sum-of-two-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
 | [0483-smallest-good-base](https://github.com/HarshitaGupta-610/leetcode/tree/master/0483-smallest-good-base) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -488,6 +489,7 @@ repo for leetcode question ' s solutions
 | [0231-power-of-two](https://github.com/HarshitaGupta-610/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0693-binary-number-with-alternating-bits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1009-complement-of-base-10-integer) |
