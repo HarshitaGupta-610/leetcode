@@ -89,6 +89,7 @@ repo for leetcode question ' s solutions
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshitaGupta-610/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/HarshitaGupta-610/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitaGupta-610/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -219,6 +220,7 @@ repo for leetcode question ' s solutions
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/HarshitaGupta-610/leetcode/tree/master/0860-lemonade-change) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Monotonic Stack
 |  |
@@ -431,6 +433,7 @@ repo for leetcode question ' s solutions
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1922-count-good-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/1922-count-good-numbers) |
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
@@ -533,6 +536,7 @@ repo for leetcode question ' s solutions
 | [1331-rank-transform-of-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -582,6 +586,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Number Theory
 |  |
