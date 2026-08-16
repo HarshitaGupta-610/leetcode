@@ -438,6 +438,7 @@ repo for leetcode question ' s solutions
 | [1922-count-good-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/1922-count-good-numbers) |
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
@@ -593,6 +594,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
@@ -642,6 +644,7 @@ repo for leetcode question ' s solutions
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
