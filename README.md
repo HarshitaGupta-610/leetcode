@@ -74,6 +74,7 @@ repo for leetcode question ' s solutions
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/HarshitaGupta-610/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/HarshitaGupta-610/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -321,6 +322,7 @@ repo for leetcode question ' s solutions
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitaGupta-610/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
@@ -429,6 +431,7 @@ repo for leetcode question ' s solutions
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -588,6 +591,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Number Theory
@@ -834,4 +838,12 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
