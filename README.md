@@ -145,6 +145,7 @@ repo for leetcode question ' s solutions
 | [1021-remove-outermost-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/HarshitaGupta-610/leetcode/tree/master/1544-make-the-string-great) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +201,7 @@ repo for leetcode question ' s solutions
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -223,6 +225,7 @@ repo for leetcode question ' s solutions
 | [0860-lemonade-change](https://github.com/HarshitaGupta-610/leetcode/tree/master/0860-lemonade-change) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -694,6 +697,7 @@ repo for leetcode question ' s solutions
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/HarshitaGupta-610/leetcode/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0494-target-sum) |
+| [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
 |  |
 | ------- |
