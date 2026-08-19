@@ -31,6 +31,7 @@ repo for leetcode question ' s solutions
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HarshitaGupta-610/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0118-pascals-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshitaGupta-610/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/HarshitaGupta-610/leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -218,6 +219,7 @@ repo for leetcode question ' s solutions
 | [0011-container-with-most-water](https://github.com/HarshitaGupta-610/leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/HarshitaGupta-610/leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
