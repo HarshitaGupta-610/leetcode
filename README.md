@@ -256,6 +256,7 @@ repo for leetcode question ' s solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -302,6 +303,7 @@ repo for leetcode question ' s solutions
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Dynamic Programming
@@ -810,6 +812,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/HarshitaGupta-610/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Enumeration
 |  |
 | ------- |
