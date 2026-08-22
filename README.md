@@ -15,6 +15,7 @@ repo for leetcode question ' s solutions
 | [0031-next-permutation](https://github.com/HarshitaGupta-610/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshitaGupta-610/leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/HarshitaGupta-610/leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HarshitaGupta-610/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HarshitaGupta-610/leetcode/tree/master/0048-rotate-image) |
@@ -348,6 +349,7 @@ repo for leetcode question ' s solutions
 | [0001-two-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/HarshitaGupta-610/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/HarshitaGupta-610/leetcode/tree/master/0049-group-anagrams) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HarshitaGupta-610/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
@@ -414,6 +416,7 @@ repo for leetcode question ' s solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HarshitaGupta-610/leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/HarshitaGupta-610/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/0085-maximal-rectangle) |
