@@ -196,6 +196,7 @@ repo for leetcode question ' s solutions
 | [0424-longest-repeating-character-replacement](https://github.com/HarshitaGupta-610/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/HarshitaGupta-610/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/HarshitaGupta-610/leetcode/tree/master/0709-to-lower-case) |
@@ -373,6 +374,7 @@ repo for leetcode question ' s solutions
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
@@ -601,6 +603,7 @@ repo for leetcode question ' s solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -638,6 +641,7 @@ repo for leetcode question ' s solutions
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshitaGupta-610/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
