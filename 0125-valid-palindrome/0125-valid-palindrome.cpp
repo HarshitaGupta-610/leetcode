@@ -1,32 +1,41 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int n = s.size();
-        int i = 0;
-        int j = n - 1;
-        while(i <= j){
-            if(s[i] == ' '){
-                i++;
-                continue;
-            }
-            if( s[j] == ' '){
-                j--;
-                continue;
-            }
-            if(!isalnum(s[i])){
-                i++;
-                continue;
-            }
-            if(!isalnum(s[j])){
-                j--;
-                continue;
-            }
-            if(tolower(s[i]) != tolower(s[j])){
-                return false;
-            }
-            i++;
-            j--;
-        }
-        return true;
+   //Brute force: time and space O(N)
+//    string final = "";
+//    for(char c : s){
+//     if(isalnum(c)){
+//         final += tolower(c);
+//     }
+//    }
+//    int l = 0 , r = final.size() - 1;
+//    while( l < r){
+//     if(final[l] != final[r]){
+//         return false;
+//     }
+//     l++;
+//     r--;
+//    } 
+//    return true;    
+
+
+//Optimal : O(N) tc and sc O(1)
+int l = 0 , r = s.size() - 1;
+while( l < r)
+{
+    while( l < r && !isalnum(s[l])){
+        l++;
+    }
+    while( l < r && !isalnum(s[r])){
+        r--;
+    }
+
+    if(tolower(s[l]) != tolower(s[r])){
+        return false;
+    }
+    l++;
+    r--;
+}
+return true;
     }
 };
