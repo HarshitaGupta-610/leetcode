@@ -105,6 +105,7 @@ repo for leetcode question ' s solutions
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitaGupta-610/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -240,6 +241,7 @@ repo for leetcode question ' s solutions
 | [1386-cinema-seat-allocation](https://github.com/HarshitaGupta-610/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Monotonic Stack
 |  |
@@ -585,6 +587,7 @@ repo for leetcode question ' s solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
@@ -623,6 +626,7 @@ repo for leetcode question ' s solutions
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshitaGupta-610/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
