@@ -187,6 +187,7 @@ repo for leetcode question ' s solutions
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/HarshitaGupta-610/leetcode/tree/master/0071-simplify-path) |
 | [0091-decode-ways](https://github.com/HarshitaGupta-610/leetcode/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/HarshitaGupta-610/leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -750,6 +751,7 @@ repo for leetcode question ' s solutions
 | [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/HarshitaGupta-610/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/HarshitaGupta-610/leetcode/tree/master/0078-subsets) |
+| [0093-restore-ip-addresses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0494-target-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0494-target-sum) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Divide and Conquer
