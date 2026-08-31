@@ -304,6 +304,7 @@ repo for leetcode question ' s solutions
 | [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshitaGupta-610/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/HarshitaGupta-610/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -432,6 +433,7 @@ repo for leetcode question ' s solutions
 | [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshitaGupta-610/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/HarshitaGupta-610/leetcode/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -852,6 +854,7 @@ repo for leetcode question ' s solutions
 | [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/HarshitaGupta-610/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [0841-keys-and-rooms](https://github.com/HarshitaGupta-610/leetcode/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1791-find-center-of-star-graph) |
