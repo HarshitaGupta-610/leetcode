@@ -128,6 +128,7 @@ repo for leetcode question ' s solutions
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshitaGupta-610/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3838-weighted-word-mapping](https://github.com/HarshitaGupta-610/leetcode/tree/master/3838-weighted-word-mapping) |
@@ -414,6 +415,7 @@ repo for leetcode question ' s solutions
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -499,6 +501,7 @@ repo for leetcode question ' s solutions
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Geometry
