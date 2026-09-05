@@ -53,6 +53,7 @@ repo for leetcode question ' s solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/HarshitaGupta-610/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -671,6 +672,7 @@ repo for leetcode question ' s solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/HarshitaGupta-610/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshitaGupta-610/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0567-permutation-in-string) |
@@ -738,6 +740,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshitaGupta-610/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -852,6 +855,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshitaGupta-610/leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
 ## Graph Theory
 |  |
 | ------- |
@@ -939,4 +943,12 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/HarshitaGupta-610/leetcode/tree/master/0075-sort-colors) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
