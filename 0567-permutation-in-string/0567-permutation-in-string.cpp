@@ -14,7 +14,7 @@ int n2 = s2.size();
     // return false; 
 
 
-     //Optimal : O(n1 +n2)
+     //Optimal : O(n1 +n2):s1 ki frequency store karo, phir s2 par s1 size ki sliding window chalao; har window mein ek character add aur ek purana character remove karo, aur agar dono frequency arrays equal ho jaayein toh permutation mil gayi.
      if(n1 > n2) return false;
      vector<int>freq1(26,0);       
      vector<int>freq2(26,0);
@@ -23,12 +23,12 @@ int n2 = s2.size();
         freq1[c-'a']++;
      }
      for(int i = 0 ; i < n1 ; i++){
-        freq2[s2[i] - 'a']++;
+        freq2[s2[i] - 'a']++;//window ke size ke characters ki freq increase karo
      }  
      if(freq1 == freq2) return true;
      for(int i = n1 ; i < n2 ; i++){
-        freq2[s2[i] - 'a']++;
-        freq2[s2[i - n1] - 'a']--;//pichla character
+        freq2[s2[i] - 'a']++;//new window
+        freq2[s2[i - n1] - 'a']--;//pichla character remove
          if(freq1 == freq2) return true;
      }     
      return false;
