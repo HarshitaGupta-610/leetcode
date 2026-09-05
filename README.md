@@ -189,6 +189,7 @@ repo for leetcode question ' s solutions
 | [0058-length-of-last-word](https://github.com/HarshitaGupta-610/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HarshitaGupta-610/leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/HarshitaGupta-610/leetcode/tree/master/0071-simplify-path) |
+| [0076-minimum-window-substring](https://github.com/HarshitaGupta-610/leetcode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/HarshitaGupta-610/leetcode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/HarshitaGupta-610/leetcode/tree/master/0125-valid-palindrome) |
@@ -373,6 +374,7 @@ repo for leetcode question ' s solutions
 | [0036-valid-sudoku](https://github.com/HarshitaGupta-610/leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/HarshitaGupta-610/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/HarshitaGupta-610/leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/HarshitaGupta-610/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshitaGupta-610/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/HarshitaGupta-610/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
@@ -667,6 +669,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/HarshitaGupta-610/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshitaGupta-610/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
