@@ -85,6 +85,7 @@ repo for leetcode question ' s solutions
 | [0860-lemonade-change](https://github.com/HarshitaGupta-610/leetcode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/HarshitaGupta-610/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/HarshitaGupta-610/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -168,6 +169,7 @@ repo for leetcode question ' s solutions
 | [0657-robot-return-to-origin](https://github.com/HarshitaGupta-610/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0735-asteroid-collision](https://github.com/HarshitaGupta-610/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/HarshitaGupta-610/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -597,6 +599,7 @@ repo for leetcode question ' s solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/HarshitaGupta-610/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1200-minimum-absolute-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/HarshitaGupta-610/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -860,6 +863,7 @@ repo for leetcode question ' s solutions
 | [0225-implement-stack-using-queues](https://github.com/HarshitaGupta-610/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshitaGupta-610/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
+| [0950-reveal-cards-in-increasing-order](https://github.com/HarshitaGupta-610/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 ## Graph Theory
 |  |
 | ------- |
