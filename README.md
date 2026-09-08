@@ -105,6 +105,7 @@ repo for leetcode question ' s solutions
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/HarshitaGupta-610/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshitaGupta-610/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -315,6 +316,7 @@ repo for leetcode question ' s solutions
 | [1325-delete-leaves-with-a-given-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -416,6 +418,7 @@ repo for leetcode question ' s solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/HarshitaGupta-610/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
+| [1743-restore-the-array-from-adjacent-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/1743-restore-the-array-from-adjacent-pairs) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
