@@ -978,4 +978,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshitaGupta-610/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
