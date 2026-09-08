@@ -513,6 +513,7 @@ repo for leetcode question ' s solutions
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/HarshitaGupta-610/leetcode/tree/master/3870-count-commas-in-range) |
 ## Geometry
 |  |
 | ------- |
