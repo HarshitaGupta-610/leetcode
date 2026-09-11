@@ -1,0 +1,23 @@
+class Solution {
+public:
+    int totalNumbers(vector<int>& digits) {
+// freq[i] stores how many times digit iis present in the given array
+int freq[10] = {0};
+for (int d : digits) freq[d]++;
+int ans = 0;
+for (int last = 0; last <= 8; last += 2) {
+if (freq[last] == 0)continue;
+freq[last]--;
+for (int first = 1; first <= 9; first++) {
+if (freq[first] == 0)continue;
+freq[first]--;  
+for (int middle = 0; middle <= 9; middle++) {
+if (freq[middle] > 0) ans++;                    
+}
+freq[first]++;
+}
+freq[last]++;
+}
+return ans;
+    }
+};
