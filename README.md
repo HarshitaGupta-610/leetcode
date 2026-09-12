@@ -52,6 +52,7 @@ repo for leetcode question ' s solutions
 | [0213-house-robber-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HarshitaGupta-610/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
@@ -399,6 +400,7 @@ repo for leetcode question ' s solutions
 | [0202-happy-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HarshitaGupta-610/leetcode/tree/master/0290-word-pattern) |
@@ -597,6 +599,7 @@ repo for leetcode question ' s solutions
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/HarshitaGupta-610/leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HarshitaGupta-610/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/HarshitaGupta-610/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -912,6 +915,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
@@ -991,4 +995,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/HarshitaGupta-610/leetcode/tree/master/0127-word-ladder) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
