@@ -499,6 +499,7 @@ repo for leetcode question ' s solutions
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -528,6 +529,7 @@ repo for leetcode question ' s solutions
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Union Find
 |  |
