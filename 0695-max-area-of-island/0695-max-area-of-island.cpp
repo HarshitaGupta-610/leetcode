@@ -1,8 +1,8 @@
 class Solution {
 private:
 int dfs(vector<vector<int>>& grid , int i , int j){
-      int n = grid.size();
-        int m = grid[0].size();
+      int n = grid.size();//rows
+        int m = grid[0].size();//cols
 if( i < 0 || i >= n || j < 0 || j >= m ||grid[i][j] == 0){
     return 0;
 }
