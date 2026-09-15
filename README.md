@@ -228,6 +228,7 @@ repo for leetcode question ' s solutions
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -257,6 +258,7 @@ repo for leetcode question ' s solutions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -377,6 +379,7 @@ repo for leetcode question ' s solutions
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshitaGupta-610/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitaGupta-610/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -663,6 +666,7 @@ repo for leetcode question ' s solutions
 | [0876-middle-of-the-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshitaGupta-610/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
