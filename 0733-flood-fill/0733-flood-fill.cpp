@@ -1,39 +1,20 @@
 class Solution {
 public:
+
+void dfs(vector<vector<int>>&image , int i , int j , int oldc , int newc){
+     int n = image.size();
+ int m = image[0].size();
+ if( i < 0 || i >= n || j <0 || j >= m || image[i][j] != oldc) return;
+ image[i][j] = newc;    
+ dfs(image , i-1,j,oldc,newc);//up
+ dfs(image , i+1,j,oldc,newc);//down
+ dfs(image , i,j-1,oldc,newc);//left
+ dfs(image , i,j+1,oldc,newc);//right
+}
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        int m = image.size();
-        int n = image[0].size();
-        
-        int original = image[sr][sc];
-        if (original == color) return image;  
-        
-        queue<pair<int,int>> q;
-        q.push({sr, sc});
-        
-        while (!q.empty()) {
-            auto [i, j] = q.front();
-            q.pop();
-            
-            
-            image[i][j] = color;
-            
-           
-            int dirs[4][2] = {{1,0}, {-1,0}, {0,1}, {0,-1}};
-            
-            for (auto& d : dirs) {
-                int ni = i + d[0];
-                int nj = j + d[1];
-                
-               
-                if (ni >= 0 && ni < m && nj >= 0 && nj < n) {
-                   
-                    if (image[ni][nj] == original) {
-                        q.push({ni, nj});
-                    }
-                }
-            }
-        }
-        
-        return image;
+   int oldc = image[sr][sc];
+   if(oldc == color) return image;
+   else dfs(image,sr,sc,oldc,color);
+   return image;
     }
 };
