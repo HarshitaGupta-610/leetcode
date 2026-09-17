@@ -88,6 +88,7 @@ repo for leetcode question ' s solutions
 | [0875-koko-eating-bananas](https://github.com/HarshitaGupta-610/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/HarshitaGupta-610/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/HarshitaGupta-610/leetcode/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -420,6 +421,7 @@ repo for leetcode question ' s solutions
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0997-find-the-town-judge](https://github.com/HarshitaGupta-610/leetcode/tree/master/0997-find-the-town-judge) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -703,6 +705,7 @@ repo for leetcode question ' s solutions
 | [0424-longest-repeating-character-replacement](https://github.com/HarshitaGupta-610/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0567-permutation-in-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshitaGupta-610/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -925,6 +928,7 @@ repo for leetcode question ' s solutions
 | [0347-top-k-frequent-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
