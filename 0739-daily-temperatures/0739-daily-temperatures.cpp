@@ -15,7 +15,7 @@ int n = temperatures.size();
 // return ans;
 
 
-//Optimal : O(N) Use of stacks
+//Optimal : O(N) Use of stack
 stack<int>st;
 vector<int>ans(n);
 for(int i = n-1;i>=0;i--){
