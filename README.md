@@ -115,6 +115,7 @@ repo for leetcode question ' s solutions
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2540-minimum-common-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/2540-minimum-common-value) |
@@ -228,6 +229,7 @@ repo for leetcode question ' s solutions
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -668,6 +670,7 @@ repo for leetcode question ' s solutions
 | [0876-middle-of-the-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2540-minimum-common-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshitaGupta-610/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
