@@ -1,26 +1,17 @@
 class Solution {
 public:
-    void nextPermutation(vector<int>& nums) {
-        int n = nums.size();
-        int id = -1;
-        for(int i = n - 2 ; i >= 0 ; i --){
-            if(nums[i +1] > nums[i]){
-                id = i;
-                break;
-            }
-        }
-         if(id  == -1){
-            reverse(nums.begin() , nums.end());
-            return ;
-         }
-        for(int i = n-1 ; i >= 0  ; i--){
-            if(nums[i] > nums[id]){
-                swap(nums[i] , nums[id]);
-                break;
-            }
-        }
-        reverse (nums.begin() + id + 1,nums.end());
-        return;
-     
+    void nextPermutation(vector<int>& a) {
+         int n = a.size();
+    int i = n-2;//to find character form end 
+    while( i >= 0 && a[i] >= a[i+1]){
+        i--;
+    }
+if(i >= 0){
+    int j = n-1;// finding right side pe sabse smallest to exchange with ith
+    while(a[j] <= a[i]) j--;
+    swap(a[j] , a[i]);
+
+}
+reverse(a.begin() + i + 1, a.end());
     }
 };
