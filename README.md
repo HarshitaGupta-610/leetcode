@@ -600,6 +600,7 @@ repo for leetcode question ' s solutions
 | [0779-k-th-symbol-in-grammar](https://github.com/HarshitaGupta-610/leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1386-cinema-seat-allocation](https://github.com/HarshitaGupta-610/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Sorting
 |  |
