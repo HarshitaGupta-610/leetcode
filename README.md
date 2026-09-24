@@ -232,6 +232,7 @@ repo for leetcode question ' s solutions
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
+| [1927-sum-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -262,6 +263,7 @@ repo for leetcode question ' s solutions
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1927-sum-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -520,6 +522,7 @@ repo for leetcode question ' s solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1922-count-good-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/1922-count-good-numbers) |
+| [1927-sum-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/1927-sum-game) |
 | [2413-smallest-even-multiple](https://github.com/HarshitaGupta-610/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/HarshitaGupta-610/leetcode/tree/master/2469-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/HarshitaGupta-610/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -698,6 +701,7 @@ repo for leetcode question ' s solutions
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1927-sum-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/1927-sum-game) |
 | [3227-vowels-game-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
 ## Number Theory
