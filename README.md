@@ -1037,4 +1037,8 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
