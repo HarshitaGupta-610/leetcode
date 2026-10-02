@@ -1,16 +1,11 @@
 class Solution {
 public:
-vector<string>a;
+vector<string>a;//isme store karayge sare valid combos
 void solve(int open, int close, string op)
-{
-    
-    if(open == 0 && close == 0)
-    {
-    
-        a.push_back(op);
+{    if(open == 0 && close == 0)
+    { a.push_back(op);
         return;
     }
-
     if(open > 0)
     {
         string op1 = op;
