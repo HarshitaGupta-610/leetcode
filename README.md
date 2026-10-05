@@ -170,6 +170,7 @@ repo for leetcode question ' s solutions
 | [0739-daily-temperatures](https://github.com/HarshitaGupta-610/leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/HarshitaGupta-610/leetcode/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/HarshitaGupta-610/leetcode/tree/master/1544-make-the-string-great) |
@@ -227,6 +228,7 @@ repo for leetcode question ' s solutions
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/HarshitaGupta-610/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -1045,4 +1047,5 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
