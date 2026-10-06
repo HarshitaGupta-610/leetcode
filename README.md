@@ -171,6 +171,7 @@ repo for leetcode question ' s solutions
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/HarshitaGupta-610/leetcode/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitaGupta-610/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/HarshitaGupta-610/leetcode/tree/master/1544-make-the-string-great) |
@@ -229,6 +230,7 @@ repo for leetcode question ' s solutions
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitaGupta-610/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -264,6 +266,7 @@ repo for leetcode question ' s solutions
 | [0767-reorganize-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/HarshitaGupta-610/leetcode/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/HarshitaGupta-610/leetcode/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitaGupta-610/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/HarshitaGupta-610/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -1048,4 +1051,5 @@ repo for leetcode question ' s solutions
 | [0022-generate-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitaGupta-610/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
