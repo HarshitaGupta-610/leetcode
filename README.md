@@ -532,6 +532,7 @@ repo for leetcode question ' s solutions
 | [1266-minimum-time-visiting-all-points](https://github.com/HarshitaGupta-610/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshitaGupta-610/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/HarshitaGupta-610/leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/HarshitaGupta-610/leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1922-count-good-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/1927-sum-game) |
