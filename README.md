@@ -119,6 +119,7 @@ repo for leetcode question ' s solutions
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/HarshitaGupta-610/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -593,6 +594,7 @@ repo for leetcode question ' s solutions
 | [1346-check-if-n-and-its-double-exist](https://github.com/HarshitaGupta-610/leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshitaGupta-610/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/HarshitaGupta-610/leetcode/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3453-separate-squares-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3453-separate-squares-i) |
@@ -663,6 +665,7 @@ repo for leetcode question ' s solutions
 | [1833-maximum-ice-cream-bars](https://github.com/HarshitaGupta-610/leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/HarshitaGupta-610/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3024-type-of-triangle](https://github.com/HarshitaGupta-610/leetcode/tree/master/3024-type-of-triangle) |
