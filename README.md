@@ -256,6 +256,7 @@ repo for leetcode question ' s solutions
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/HarshitaGupta-610/leetcode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Greedy
 |  |
 | ------- |
