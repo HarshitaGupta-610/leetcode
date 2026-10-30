@@ -257,6 +257,7 @@ repo for leetcode question ' s solutions
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3838-weighted-word-mapping](https://github.com/HarshitaGupta-610/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -823,6 +824,7 @@ repo for leetcode question ' s solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -947,6 +949,7 @@ repo for leetcode question ' s solutions
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -993,6 +996,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0743-network-delay-time](https://github.com/HarshitaGupta-610/leetcode/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshitaGupta-610/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## String Matching
 |  |
 | ------- |
