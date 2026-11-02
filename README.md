@@ -66,6 +66,7 @@ repo for leetcode question ' s solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/HarshitaGupta-610/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/0496-next-greater-element-i) |
@@ -531,6 +532,7 @@ repo for leetcode question ' s solutions
 | [0371-sum-of-two-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0483-smallest-good-base](https://github.com/HarshitaGupta-610/leetcode/tree/master/0483-smallest-good-base) |
 | [0523-continuous-subarray-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -652,6 +654,7 @@ repo for leetcode question ' s solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshitaGupta-610/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/HarshitaGupta-610/leetcode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
