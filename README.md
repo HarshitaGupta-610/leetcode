@@ -144,6 +144,7 @@ repo for leetcode question ' s solutions
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3637-trionic-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/HarshitaGupta-610/leetcode/tree/master/3643-flip-square-submatrix-vertically) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -561,6 +562,7 @@ repo for leetcode question ' s solutions
 | [3536-maximum-product-of-two-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitaGupta-610/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3828-final-element-after-subarray-deletions](https://github.com/HarshitaGupta-610/leetcode/tree/master/3828-final-element-after-subarray-deletions) |
