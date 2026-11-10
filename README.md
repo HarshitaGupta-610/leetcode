@@ -253,6 +253,7 @@ repo for leetcode question ' s solutions
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HarshitaGupta-610/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -777,6 +778,7 @@ repo for leetcode question ' s solutions
 | [1590-make-sum-divisible-by-p](https://github.com/HarshitaGupta-610/leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/HarshitaGupta-610/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/HarshitaGupta-610/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/HarshitaGupta-610/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3788-maximum-score-of-a-split](https://github.com/HarshitaGupta-610/leetcode/tree/master/3788-maximum-score-of-a-split) |
