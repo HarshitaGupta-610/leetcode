@@ -121,6 +121,7 @@ repo for leetcode question ' s solutions
 | [1848-minimum-distance-to-the-target-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/HarshitaGupta-610/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2050-parallel-courses-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -410,6 +411,7 @@ repo for leetcode question ' s solutions
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/HarshitaGupta-610/leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/HarshitaGupta-610/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
+| [2050-parallel-courses-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/2050-parallel-courses-iii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
@@ -961,6 +963,7 @@ repo for leetcode question ' s solutions
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1791-find-center-of-star-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HarshitaGupta-610/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2050-parallel-courses-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/2050-parallel-courses-iii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarshitaGupta-610/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search Tree
 |  |
@@ -999,6 +1002,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0207-course-schedule](https://github.com/HarshitaGupta-610/leetcode/tree/master/0207-course-schedule) |
 | [0802-find-eventual-safe-states](https://github.com/HarshitaGupta-610/leetcode/tree/master/0802-find-eventual-safe-states) |
+| [2050-parallel-courses-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -1018,6 +1022,7 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/HarshitaGupta-610/leetcode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2050-parallel-courses-iii](https://github.com/HarshitaGupta-610/leetcode/tree/master/2050-parallel-courses-iii) |
 ## Minimax
 |  |
 | ------- |
