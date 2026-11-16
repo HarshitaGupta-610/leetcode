@@ -195,6 +195,7 @@ repo for leetcode question ' s solutions
 | [0844-backspace-string-compare](https://github.com/HarshitaGupta-610/leetcode/tree/master/0844-backspace-string-compare) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/HarshitaGupta-610/leetcode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshitaGupta-610/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
@@ -253,6 +254,7 @@ repo for leetcode question ' s solutions
 | [1871-jump-game-vii](https://github.com/HarshitaGupta-610/leetcode/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/1927-sum-game) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarshitaGupta-610/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/HarshitaGupta-610/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
