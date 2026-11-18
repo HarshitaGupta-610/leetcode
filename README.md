@@ -344,6 +344,7 @@ repo for leetcode question ' s solutions
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -491,6 +492,7 @@ repo for leetcode question ' s solutions
 | [0226-invert-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0542-01-matrix](https://github.com/HarshitaGupta-610/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/HarshitaGupta-610/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/HarshitaGupta-610/leetcode/tree/master/0695-max-area-of-island) |
@@ -538,6 +540,7 @@ repo for leetcode question ' s solutions
 | [0268-missing-number](https://github.com/HarshitaGupta-610/leetcode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/HarshitaGupta-610/leetcode/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0292-nim-game) |
+| [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
 | [0371-sum-of-two-integers](https://github.com/HarshitaGupta-610/leetcode/tree/master/0371-sum-of-two-integers) |
 | [0390-elimination-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/0390-elimination-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitaGupta-610/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1092,4 +1095,20 @@ repo for leetcode question ' s solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/HarshitaGupta-610/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HarshitaGupta-610/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
