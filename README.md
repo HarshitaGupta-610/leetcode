@@ -156,6 +156,7 @@ repo for leetcode question ' s solutions
 | [3838-weighted-word-mapping](https://github.com/HarshitaGupta-610/leetcode/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3872-longest-arithmetic-sequence-after-changing-at-most-one-element](https://github.com/HarshitaGupta-610/leetcode/tree/master/3872-longest-arithmetic-sequence-after-changing-at-most-one-element) |
+| [3934-smallest-unique-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -479,6 +480,7 @@ repo for leetcode question ' s solutions
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/HarshitaGupta-610/leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/HarshitaGupta-610/leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -618,6 +620,7 @@ repo for leetcode question ' s solutions
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarshitaGupta-610/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3453-separate-squares-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/HarshitaGupta-610/leetcode/tree/master/3454-separate-squares-ii) |
+| [3934-smallest-unique-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Segment Tree
 |  |
 | ------- |
@@ -829,6 +832,7 @@ repo for leetcode question ' s solutions
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/HarshitaGupta-610/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0706-design-hashmap](https://github.com/HarshitaGupta-610/leetcode/tree/master/0706-design-hashmap) |
+| [3934-smallest-unique-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1111,4 +1115,12 @@ repo for leetcode question ' s solutions
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/HarshitaGupta-610/leetcode/tree/master/0365-water-and-jug-problem) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/HarshitaGupta-610/leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
