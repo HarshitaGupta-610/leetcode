@@ -200,6 +200,7 @@ repo for leetcode question ' s solutions
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/HarshitaGupta-610/leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/3360-stone-removal-game) |
 | [3379-transformed-array](https://github.com/HarshitaGupta-610/leetcode/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/HarshitaGupta-610/leetcode/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -571,6 +572,7 @@ repo for leetcode question ' s solutions
 | [3227-vowels-game-in-a-string](https://github.com/HarshitaGupta-610/leetcode/tree/master/3227-vowels-game-in-a-string) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/HarshitaGupta-610/leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
+| [3360-stone-removal-game](https://github.com/HarshitaGupta-610/leetcode/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/HarshitaGupta-610/leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/HarshitaGupta-610/leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/HarshitaGupta-610/leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
